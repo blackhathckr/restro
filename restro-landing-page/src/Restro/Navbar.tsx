@@ -10,6 +10,7 @@ const Navbar = () =>
               <a href="#menu" className="text-gray-800 hover:text-orange-500 font-medium">Menu</a>
               <a href="#about" className="text-gray-800 hover:text-orange-500 font-medium">About</a>
               <a href="#contact" className="text-gray-800 hover:text-orange-500 font-medium">Contact</a>
+              <a href="/terms" className="text-gray-800 hover:text-orange-500 font-medium">Terms and Policies</a>
             </div>
             <Button className="bg-orange-500 hover:bg-orange-600 rounded-xl px-4 sm:px-6 text-sm sm:text-base">Order Now</Button>
           </div>

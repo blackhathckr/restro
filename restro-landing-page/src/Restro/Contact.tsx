@@ -29,7 +29,7 @@ const Contact = () =>
                       </div>
                       <div>
                         <p className="font-medium text-gray-600">Call Us</p>
-                        <p className="text-lg font-semibold">+1 234 567 890</p>
+                        <p className="text-lg font-semibold">+91 9980287730</p>
                       </div>
                     </div>
 
@@ -39,7 +39,7 @@ const Contact = () =>
                       </div>
                       <div>
                         <p className="font-medium text-gray-600">Email Us</p>
-                        <p className="text-lg font-semibold">contact@restaurant.com</p>
+                        <p className="text-lg font-semibold">vasugadegihotel@gmail.com</p>
                       </div>
                     </div>
 
@@ -49,7 +49,7 @@ const Contact = () =>
                       </div>
                       <div>
                         <p className="font-medium text-gray-600">Location</p>
-                        <p className="text-lg font-semibold">123 Foodie Street, NY</p>
+                        <p className="text-lg font-semibold">Sharanabasaveshwar camp, Jangamarkalgudi, Gangawati, Koppal, Karnataka, India -583227</p>
                       </div>
                     </div>
                   </div>
